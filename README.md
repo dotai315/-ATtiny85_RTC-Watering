@@ -5,6 +5,7 @@
 <img src="https://user-images.githubusercontent.com/57071897/157095030-7aa30761-a11c-444e-be4b-59a7e35cfd4a.png"></img>
 <h3>Step 2: Download Bootloader</h3>
 <p>Download from here: https://github.com/micronucleus/micronucleus/tree/v1.06</p>
+<p>Extract this file</p>
 <h3>Step 3: Download Progisp</h3>
 <p>You can download here: https://www.mediafire.com/file/e37bdllhpuue1b0/%255BHshop.vn%255D_Progisp_1.72.rar/file</p>
 <h3>Step 4: Burn Bootloader</h3>
